@@ -1,0 +1,93 @@
+[
+    {
+        "id" : 1,
+        "book" : "Harry Potter and the Sorcerer's Stone",
+        "author" : "J.K. Rowling",
+        "price" : 0,
+        "category" : "free",
+        "description" : "A young wizard's journey begins as he discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry.",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg"
+
+    },
+    {
+        "id" : 2,
+        "book" : "The Great Gatsby",
+        "author" : "F. Scott Fitzgerald",
+        "price" : 0,
+        "category" : "free",
+        "description" : "A classic novel that explores themes of wealth, love, and the American Dream in the Roaring Twenties.",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg"
+    },
+    {
+        "id" : 3,
+        "book" : "To Kill a Mockingbird",
+        "author" : "Harper Lee",
+        "price" : 0,
+        "category" : "free",
+        "description" : "A powerful story of racial injustice and moral growth in the Deep South during the 1930s.",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/81OtwF1XJmL.jpg"
+    },
+    {
+        "id" : 4,
+        "book" : "1984",
+        "author" : "George Orwell",
+        "price" : 0,
+        "category" : "free",
+        "description" : "A dystopian novel that delves into themes of totalitarianism, surveillance, and individuality in a future society.",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg"
+    },
+    {
+        "id" : 5,
+        "book" : "Pride and Prejudice",
+        "author" : "Jane Austen",
+        "price" : 0,
+        "category" : "free",
+        "description" : "A classic romance novel that explores themes of love, social class, and misunderstandings in 19th-century England.",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg"
+    },
+    {
+        "id" : 6,
+        "book" : "The Catcher in the Rye",
+        "author" : "J.D. Salinger",
+        "price" : 15.99,
+        "category" : "paid",
+        "description" : "A controversial novel about teenage rebellion and alienation, following Holden Caulfield's journey through New York City.",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg"
+    },
+    {
+        "id" : 7,
+        "book" : "The Lord of the Rings",
+        "author" : "J.R.R. Tolkien",
+        "price" : 25.99,
+        "category" : "paid",
+        "description" : "An epic fantasy adventure following Frodo Baggins and the Fellowship of the Ring on their quest to destroy the One Ring.",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg"
+    },
+    {
+        "id" : 8,
+        "book" : "Dune",
+        "author" : "Frank Herbert",
+        "price" : 18.99,
+        "category" : "paid",
+        "description" : "A science fiction masterpiece set on the desert planet Arrakis, exploring politics, religion, and ecology.",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg"
+    },
+    {
+        "id" : 9,
+        "book" : "The Hitchhiker's Guide to the Galaxy",
+        "author" : "Douglas Adams",
+        "price" : 12.99,
+        "category" : "paid",
+        "description" : "A hilarious science fiction comedy about Arthur Dent's adventures through space after Earth's destruction.",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/81OtwF1XJmL.jpg"
+    },
+    {
+        "id" : 10,
+        "book" : "Neuromancer",
+        "author" : "William Gibson",
+        "price" : 16.99,
+        "category" : "paid",
+        "description" : "A groundbreaking cyberpunk novel that coined the term 'cyberspace' and explores a future of artificial intelligence and virtual reality.",
+        "image" : "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg"
+    }
+]
